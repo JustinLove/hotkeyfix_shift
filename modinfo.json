@@ -1,0 +1,23 @@
+{
+  "author": "wondible",
+  "build": "69564",
+  "category": ["hotfix"],
+  "context": "client",
+  "date": "2014/07/28",
+  "description": "Allow you to hold shift while using build and other hotkeys.",
+  "display_name": "Hotkeyfix Shift",
+  "forum": null,
+  "identifier": "com.wondible.pa.hotkeyfix_shift",
+  "priority": 100,
+  "scenes": {
+    "start": [
+      "coui://ui/mods/hotkeyfix_shift/warning.js"
+    ],
+    "global_mod_list": [
+      "coui://ui/mods/hotkeyfix_shift/hotfix.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.0.0"
+}
+
