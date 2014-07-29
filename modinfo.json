@@ -6,7 +6,7 @@
   "date": "2014/07/28",
   "description": "Allow you to hold shift while using build and other hotkeys.",
   "display_name": "Hotkeyfix Shift",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-hotkeyfix-shift-69170-69564.62373/",
   "identifier": "com.wondible.pa.hotkeyfix_shift",
   "priority": 100,
   "scenes": {
