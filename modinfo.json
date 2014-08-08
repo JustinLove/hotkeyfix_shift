@@ -1,9 +1,9 @@
 {
   "author": "wondible",
-  "build": "69564",
+  "build": "69721",
   "category": ["hotfix"],
   "context": "client",
-  "date": "2014/07/28",
+  "date": "2014/08/08",
   "description": "Allow you to hold shift while using build and other hotkeys.",
   "display_name": "Hotkeyfix Shift",
   "forum": "https://forums.uberent.com/threads/rel-hotkeyfix-shift-69170-69564.62373/",
@@ -18,6 +18,6 @@
     ]
   },
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
 

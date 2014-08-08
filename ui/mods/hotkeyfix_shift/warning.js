@@ -7,7 +7,7 @@
       height: 400,
       width: 600,
       modal: true,
-      autoOpen: model.buildVersion() != '69564',
+      autoOpen: model.buildVersion() != '69721',
       buttons: {
           "EXIT": function () {
               model.exit();
@@ -33,11 +33,10 @@
     container.appendTo('body')
     loadTemplate(container, 'coui://ui/mods/hotkeyfix_shift/warning.html', model);
   }
-/*
+
   if (model.buildVersion()) {
     enableCanery()
   } else {
     model.buildVersion.subscribe(enableCanery)
   }
-*/
 })()
